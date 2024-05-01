@@ -1,6 +1,6 @@
 /*
 Collectors.joining(delimiter): 
-Used to concatenate string which optional delimiter.
+Used to concatenate string ij which delimiter is optional.
 */
 import java.util.function.*;
 import java.util.*;
