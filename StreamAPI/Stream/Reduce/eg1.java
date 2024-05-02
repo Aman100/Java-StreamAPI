@@ -6,6 +6,9 @@ Points:
 2. Not Passing default/starting value to reduce: It will return Wrapper wrappen
 in optional
 
+Aggregations merhids are available in
+1. Collectors
+2. IntStream,LongStream,DoubleStream
 */
 import java.util.*;
 import java.util.stream.*;
