@@ -1,9 +1,9 @@
 /*
 MapToLong
 MapToInt
-MapToDouble
-
-Used to parse string to Long, Int, Double in Functional Programming way
+MapToDouble: It takes objecj reference compatible 
+with DoubleStream class which is used to perform 
+aggregations.
 */
 import java.util.*;
 import java.util.stream.Collectors;
