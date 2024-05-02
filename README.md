@@ -1,2 +1,2 @@
-# Java StreamAPI
- Java StreamAPI
+# Java StreamAPI Examples
+ Java StreamAPI Examples
